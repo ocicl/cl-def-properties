@@ -5,6 +5,5 @@ Common Lisp definitions introspection library
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/mmontone/cl-def-properties.git |
 | commit  | a06d61f                                               |
-| systems | cl-def-properties                                     |
+| systems | def-properties                                        |
 |---------+-------------------------------------------------------|
-
